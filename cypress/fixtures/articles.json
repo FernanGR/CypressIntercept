@@ -1,0 +1,39 @@
+{
+    "articles": [
+      {
+        "slug": "fdfsa-5580",
+        "title": "fdfsa",
+        "description": "fdsa",
+        "body": "fsafds",
+        "createdAt": "2021-11-02T12:29:38.826Z",
+        "updatedAt": "2021-11-02T12:29:38.827Z",
+        "tagList": [],
+        "author": {
+          "username": "qwer123321",
+          "bio": null,
+          "image": "https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg"
+        },
+        "comments": [],
+        "favoritesCount": 4,
+        "favorited": true
+      },
+      {
+        "slug": "this-is-a-title7-5580",
+        "title": "this is a title7",
+        "description": "This is a description",
+        "body": "This is a body of the article",
+        "createdAt": "2021-11-02T12:27:26.234Z",
+        "updatedAt": "2021-11-02T12:29:18.366Z",
+        "tagList": [],
+        "author": {
+          "username": "qwer123321",
+          "bio": null,
+          "image": "https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg"
+        },
+        "comments": [],
+        "favoritesCount": 0,
+        "favorited": false
+      }
+    ],
+    "articlesCount": 2
+  }
